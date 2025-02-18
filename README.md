@@ -1,4 +1,4 @@
-# Modelo Bayesiano para la Predicción de Riesgo Crediticio
+# Modelo Bayesiano para la predicción de riesgo crediticio
 
 ## Descripción
 
